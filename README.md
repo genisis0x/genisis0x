@@ -23,7 +23,7 @@ I'm Manmeet Singh, currently a full time Software Engineer at [FIS GLOBAL](https
 - 📫 How to reach me: mail me at [manmeetparmar@outlook.com](mailto:manmeetparmar@outlook.com)
 
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manmeet2018&show_icons=true&theme=merko)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmeet2018&layout=compact&hide=html&theme=merko)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manmeet2018&show_icons=true&theme=cobalt)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmeet2018&layout=compact&hide=html&theme=cobalt)
 
 
 ### Languages and Tools:
