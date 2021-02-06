@@ -7,6 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/ManmeetParmar-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manmeet-singh-parmar-9733a511b/)
 [![Outlook Badge](https://img.shields.io/badge/manmeetparmar@outlook.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manmeetparmar@outlook.com)
 [![Github Badge](https://img.shields.io/badge/ManmeetParmar-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manmeet2018)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-30302f?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Manmeet2018/)
+[![CodeChef Badge](https://img.shields.io/badge/CodeChef-30302f?&style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manmeet_2018)
+
+
 ## Hi there 👋,           
 I'm Manmeet Singh, currently a full time Software Engineer at [FIS GLOBAL](https://www.fisglobal.com/) .I'm a self motivated Engineer eager to leverage my analytical mind in the field of web development. If not working, you can find me doing gym, sleeping or listening to music :)
 
