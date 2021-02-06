@@ -3,7 +3,7 @@
 <!--
 **Manmeet2018/Manmeet2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Manmeet Singh
+# Manmeet Parmar
 [![Linkedin Badge](https://img.shields.io/badge/ManmeetParmar-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manmeet-singh-parmar-9733a511b/)
 [![Outlook Badge](https://img.shields.io/badge/manmeetparmar@outlook.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manmeetparmar@outlook.com)
 [![Github Badge](https://img.shields.io/badge/ManmeetParmar-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manmeet2018)
