@@ -19,7 +19,7 @@ I'm Manmeet Singh, currently a full time Software Engineer at [FIS GLOBAL](https
 - 🤝 I am looking forward to collaborate on open source projects
 - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with React Remote Jobs.
-- ⚡ Fun fact: Fun fact - I ❤️ Caffein☕.
+- ⚡ Fun fact: I ❤️ Caffein☕.
 - 📫 How to reach me: mail me at [manmeetparmar@outlook.com](mailto:manmeetparmar@outlook.com)
 
 ---
