@@ -10,8 +10,6 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-30302f?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Manmeet2018/)
 [![CodeChef Badge](https://img.shields.io/badge/CodeChef-30302f?&style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manmeet_2018)
 
-#### Donation Address => 0xF164A4DE04D55f268AdB795434BcE932Ea8Db731
-
 ## Hi there 👋,           
 I'm Manmeet Singh, currently a full time Software Engineer at [FIS GLOBAL](https://www.fisglobal.com/) .I'm a self motivated Engineer eager to leverage my analytical mind in the field of web development. If not working, you can find me doing gym, sleeping or listening to music :)
 
@@ -42,3 +40,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 
 ---
+
+#### Donation Address => 0xF164A4DE04D55f268AdB795434BcE932Ea8Db731
