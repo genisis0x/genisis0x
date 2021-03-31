@@ -14,10 +14,10 @@
 I'm Manmeet Singh, currently a full time Software Engineer at [FIS GLOBAL](https://www.fisglobal.com/) .I'm a self motivated Engineer eager to leverage my analytical mind in the field of web development. If not working, you can find me doing gym, sleeping or listening to music :)
 
 ## 🧐 About
-- 🏄‍ Web Developer/Front End
-- 🤝 I am looking forward to collaborate on open source projects
-- 🌱 I’m currently learning React.
-- 🤔 I’m looking for help with React Remote Jobs.
+- 🏄‍ Web Developer/Full stack
+- 🌱 I’m currently learning Solidity, web3 and react.
+- 🤝 I am looking forward to collaborate on Etherum,React,Node,MongoDB projects.
+- 🤔 I’m looking for help with Remote Jobs.
 - ⚡ Fun fact: I ❤️ Caffein☕.
 - 📫 How to reach me: mail me at [manmeetparmar@outlook.com](mailto:manmeetparmar@outlook.com)
 
