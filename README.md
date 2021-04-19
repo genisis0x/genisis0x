@@ -16,7 +16,7 @@ I'm Manmeet Singh, currently a full time Software Engineer at [FIS GLOBAL](https
 ## 🧐 About
 - 🏄‍ Web Developer/Full stack
 - 🌱 I’m currently learning Solidity, web3 and react.
-- 🤝 I am looking forward to collaborate on Etherum,React,Node,MongoDB projects.
+- 🤝 I am looking forward to collaborate on Etherum,Web3,DeFi,HardHat,React,Node,MongoDB projects.
 - 🤔 I’m looking for help with Remote Jobs.
 - ⚡ Fun fact: I ❤️ Caffein☕.
 - 📫 How to reach me: mail me at [manmeetparmar@outlook.com](mailto:manmeetparmar@outlook.com)
