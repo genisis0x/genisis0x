@@ -14,8 +14,8 @@
 I'm Manmeet Singh, currently a full time Software Engineer at [FIS GLOBAL](https://www.fisglobal.com/) .I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance. If not working, you can find me doing gym, sleeping or listening to music :)
 
 ## 🧐 About
+- 🌱 I’m currently learning Solidity, DeFi, web3, HardHat and react.
 - 🏄‍ Web Developer/Full stack
-- 🌱 I’m currently learning Solidity, web3 and react.
 - 🤝 I am looking forward to collaborate on Etherum,Web3,DeFi,HardHat,React,Node,MongoDB projects.
 - 🤔 I’m looking for help with Remote Jobs.
 - ⚡ Fun fact: I ❤️ Caffein☕.
