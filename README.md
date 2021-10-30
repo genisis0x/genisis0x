@@ -11,7 +11,7 @@
 [![CodeChef Badge](https://img.shields.io/badge/CodeChef-30302f?&style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manmeet_2018)
 
 ## Hi there 👋,           
-I'm Manmeet Singh, currently a full time Sr. Blockchain Engineer. I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance. If not working, you can find me doing gym, sleeping or listening to music :)
+I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer**. I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance. If not working, you can find me doing gym, sleeping or listening to music :)
 
 ## 🧐 About
 - 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with web3, Ether.js, HardHat, slither, Remix and manny ERC standards and protocols
