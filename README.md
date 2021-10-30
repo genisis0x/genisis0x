@@ -14,8 +14,8 @@
 I'm Manmeet Singh, currently a full time Software Engineer at [FIS GLOBAL](https://www.fisglobal.com/) .I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance. If not working, you can find me doing gym, sleeping or listening to music :)
 
 ## 🧐 About
-- 🌱 I’m currently working as a Solidity Developer and have been familiar with web3, Ether.js, HardHat, solidity and other ERC.
-- 🤝 I am looking forward to collaborate on solidity, React,Node,MongoDB projects.
+- 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with web3, Ether.js, HardHat, slither, Remix and manny ERC standards and protocols
+- 🤝 I am looking forward to collaborate on some open source projects.
 - 🤔 I’m looking for help with Remote Jobs and want to work in the DEFI space.
 - ⚡ Fun fact: I ❤️ Caffein☕.
 - 📫 How to reach me: mail me at [manmeetparmar@outlook.com](mailto:manmeetparmar@outlook.com)
