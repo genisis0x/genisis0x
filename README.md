@@ -16,7 +16,8 @@ I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer** in FIS Glob
 
 ## 🧐 About
 - 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with web3, Ether.js, HardHat, slither, Remix and manny ERC standards and protocols
-- 🤝 I am looking forward to collaborate on some open source projects.
+- 👨🏼‍💼 I am working as a senior smart contract freelance Auditor and has Audit more than 100+ projects.
+- 🤝 I am looking forward to collaborate on some open source projects and smart contract Auditing.
 - 🤔 I’m looking for help with Remote Jobs and want to work in the DEFI space.
 - ⚡ Fun fact: I ❤️ Caffein☕.
 - 📫 How to reach me: mail me at [manmeetparmar@outlook.com](mailto:manmeetparmar@outlook.com)
