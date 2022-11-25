@@ -16,7 +16,7 @@ I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer** in [APWINE]
 
 ## 🧐 About
 - 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with web3, Ether.js, HardHat, slither, Remix and many ERC standards and protocols
-- 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor and has Audit more than 100+ projects.
+- 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor and has Audit more than 150+ projects.
 - 🤝 I am looking forward to collaborate on some open source projects and smart contract Auditing.
 - 🤔 I’m looking for help with Remote Jobs and want to work in the DEFI space.
 - ⚡ Fun fact: I ❤️ Caffein☕.
