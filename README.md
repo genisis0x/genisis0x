@@ -20,7 +20,7 @@ I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer**. I'm a self
 - 🤝 I am looking forward to collaborate on some open source projects and smart contract Auditing.
 - 🤔 I’m looking for help with Remote Jobs and want to work in the DEFI space.
 - ⚡ Fun fact: I ❤️ Caffein☕.
-- 📫 How to reach me: mail me at [manmeetparmar@outlook.com](mailto:manmeetparmar@outlook.com)
+- 📫 How to reach me: mail me at [manmeetparmar25@gmail.com](mailto:manmeetparmar25@gmail.com)
 
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manmeet2018&show_icons=true&theme=cobalt)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmeet2018&layout=compact&hide=html&theme=cobalt)
