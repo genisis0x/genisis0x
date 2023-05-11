@@ -2,12 +2,12 @@
 
 
 <!--
-**Manmeet2018/Manmeet2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**genisis0x/genisis0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- # Manmeet Parmar -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/ManmeetParmar-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manmeet-singh-parmar-9733a511b/)
 [![Outlook Badge](https://img.shields.io/badge/manmeetparmar@outlook.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manmeetparmar@outlook.com) -->
-[![Github Badge](https://img.shields.io/badge/Auditor-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manmeet2018)
+[![Github Badge](https://img.shields.io/badge/Auditor-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/genisis0x)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-30302f?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Manmeet2018/)
 [![CodeChef Badge](https://img.shields.io/badge/CodeChef-30302f?&style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manmeet_2018)
 
@@ -23,7 +23,7 @@ I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer**. I'm a self
 - 📫 How to reach me: mail me at [manmeetparmar25@gmail.com](mailto:manmeetparmar25@gmail.com)
 
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manmeet2018&show_icons=true&theme=cobalt)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmeet2018&layout=compact&hide=html&theme=cobalt)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=genisis0x&show_icons=true&theme=cobalt)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genisis0x&layout=compact&hide=html&theme=cobalt)
 
 
 ### Languages and Tools:
