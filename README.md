@@ -12,13 +12,64 @@
 [![CodeChef Badge](https://img.shields.io/badge/CodeChef-30302f?&style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manmeet_2018)
 
 ## Hi there 👋,           
-I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer**. I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance. If not working, you can find me doing gym, sleeping or listening to music :)
+I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer**. I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance.If not working, you can find me doing gym, sleeping or listening to music :)
+
+## Skills
+
+- Ethereum
+- EVM
+- L2 solutions (Polygon, Arbitrum, Optimism)
+- NFTs
+- DeFi
+- Solidity
+- Rust
+- Python
+- Go
+- Hardhat
+- Truffle
+- Foundry
+- Javascript
+- Ether.js
+- Mocha
+- Ganache
+- Chai
+- Problem Solving
+- Data Structure and Algorithms
+- Node
+- React
+- Openzepplin Contracts
+- Ethereum Decoder
+- IPFS
+- Eip's (2535, 2612, 2626, 712, 1155, 777, 20, 721, 1167, 4626, 5095) 
+
+## Worked/Familer with different protocols 
+- Aave
+- Uniswap
+- Compound Protocol
+- Euler Finance
+- Gear Box
+- Apwine
+- 1inch
+- MakerDao
+- Hyperlane
+- LayerZero
+- Celer Sgn V2
+- PSM module
+- Unified liquidity mechanisms (dAMM , SLAMM, VAMM and Delta Algorithm)
+- Cross-chain liquidity bridges
+- Perpetual futures
+- Volmex finance
+- Opensea
+- Sandbox
+- Enjin
+- Rarible
+- Crypto punks
 
 ## 🧐 About
-- 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with web3, Ether.js, HardHat, slither, Remix and many ERC standards and protocols
+- 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with DeFi, Nft's, web3, Ether.js, HardHat, Foundry, truffle, slither, Remix and many ERC standards and different protocols. 
 - 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor and has Audit more than 150+ projects.
-- 🤝 I am looking forward to collaborate on some open source projects and smart contract Auditing.
-- 🤔 I’m looking for help with Remote Jobs and want to work in the DEFI space.
+- 🤝 I am looking forward to collaborate on some open source projects, private projects and senior smart contract Auditing.
+- 🤔 I’m looking for help with Remote Jobs and want to change my job.
 - ⚡ Fun fact: I ❤️ Caffein☕.
 - 📫 How to reach me: mail me at [manmeetparmar25@gmail.com](mailto:manmeetparmar25@gmail.com)
 
