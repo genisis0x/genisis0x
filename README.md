@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋,           
+I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer**. I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance.If not working, you can find me doing gym, sleeping or listening to music :)
 
 <!--
 **genisis0x/genisis0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,9 +10,6 @@
 [![Github Badge](https://img.shields.io/badge/Auditor-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/genisis0x)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-30302f?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Manmeet2018/)
 [![CodeChef Badge](https://img.shields.io/badge/CodeChef-30302f?&style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manmeet_2018)
-
-## Hi there 👋,           
-I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer**. I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance.If not working, you can find me doing gym, sleeping or listening to music :)
 
 ## Skills
 
