@@ -10,7 +10,7 @@ I'm a blockchain enthusiast with a passion for decentralized technologies and sm
 
 - 📊 **Senior Blockchain Engineer:** Currently, I work as a Senior Blockchain Engineer, where I apply my expertise in blockchain technologies to develop robust and secure solutions.
 
-- 🔐 **Independent Auditor:** As an Independent Auditor, I conduct audits to ensure the integrity and security of smart contracts, contributing to the overall safety of the blockchain ecosystem.
+- 🔐 **Senior Independent Auditor:** As an Independent Auditor, I conduct Independent audits to ensure the integrity and security of smart contracts, contributing to the overall safety of the blockchain ecosystem.
 
 ## Skills
 
@@ -61,10 +61,9 @@ I've worked with various blockchain projects and protocols, including:
 ## 🧐 About
 - 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with DeFi, Nft's, web3, Ether.js, HardHat, Foundry, truffle, slither, Remix and many ERC standards and different protocols. 
 - 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor and have Audit more than 150+ projects till now.
-- 🤝 I am looking forward to collaborate on some open source projects, private projects and senior smart contract Auditing.
+- 🤝 I am looking forward to collaborating on some open-source projects, private projects, and senior smart contract Auditing.
 - 🤔 I’m looking for help with Remote Jobs and want to change my job.
 - ⚡ Fun fact: I ❤️ Caffein☕.
-- 📫 How to reach me: mail me at [manmeetparmar25@gmail.com](mailto:manmeetparmar25@gmail.com)
 
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=genisis0x&show_icons=true&theme=cobalt)   ![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genisis0x&layout=compact&hide=html&theme=cobalt)
