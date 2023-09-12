@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I'm Manmeet Singh (0xAuditor), currently a full-time **Sr. Blockchain Engineer** and an Independent Auditor.
+I'm Manmeet Singh, currently a full-time **Sr. Blockchain Engineer** and an Independent Auditor.
 
 ## About Me
 
