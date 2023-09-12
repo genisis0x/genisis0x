@@ -1,70 +1,66 @@
-## Hi there 👋,           
-I'm Manmeet Singh, currently a full time **Sr. Blockchain Engineer**. I'm a self motivated Engineer eager to leverage my analytical mind in the field of Decentralized Finance.If not working, you can find me doing gym, sleeping or listening to music :)
+# Hi there 👋,
 
-<!--
-**genisis0x/genisis0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- # Manmeet Parmar -->
-<!-- [![Linkedin Badge](https://img.shields.io/badge/ManmeetParmar-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manmeet-singh-parmar-9733a511b/)
-[![Outlook Badge](https://img.shields.io/badge/manmeetparmar@outlook.com-30302f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manmeetparmar@outlook.com) -->
-[![Github Badge](https://img.shields.io/badge/Auditor-30302f?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/genisis0x)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-30302f?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Manmeet2018/)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-30302f?&style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/manmeet_2018)
+I'm Manmeet Singh (0xAuditor), currently a full-time **Sr. Blockchain Engineer** and an Independent Auditor.
+
+## About Me
+
+I'm a blockchain enthusiast with a passion for decentralized technologies and smart contracts. With a background in blockchain engineering and auditing, I'm dedicated to contributing to the world of blockchain and ensuring the security and reliability of smart contracts and decentralized applications.
+
+## My Work
+
+- 📊 **Senior Blockchain Engineer:** Currently, I work as a Senior Blockchain Engineer, where I apply my expertise in blockchain technologies to develop robust and secure solutions.
+
+- 🔐 **Independent Auditor:** As an Independent Auditor, I conduct audits to ensure the integrity and security of smart contracts, contributing to the overall safety of the blockchain ecosystem.
 
 ## Skills
 
-- Ethereum
-- EVM
-- L2 solutions (Polygon, Arbitrum, Optimism)
-- NFTs
-- DeFi
-- Solidity
-- Rust
-- Python
-- Go
-- Hardhat
-- Truffle
-- Foundry
-- Javascript
-- Ether.js
-- Mocha
-- Ganache
-- Chai
-- Problem Solving
-- Data Structure and Algorithms
-- Node
-- React
-- Openzepplin Contracts
-- Ethereum Decoder
-- IPFS
-- Eip's (2535, 2612, 2626, 712, 1155, 777, 20, 721, 1167, 4626, 5095) 
+My skills and expertise include:
 
-## Worked/Familer with different protocols 
-- Aave
-- Uniswap
-- Compound Protocol
-- Euler Finance
-- Gear Box
-- Apwine
-- 1inch
-- MakerDao
-- Hyperlane
-- LayerZero
-- Celer Sgn V2
-- PSM module
-- Unified liquidity mechanisms (dAMM , SLAMM, VAMM and Delta Algorithm)
-- Cross-chain liquidity bridges
-- Perpetual futures
-- Volmex finance
-- Opensea
-- Sandbox
-- Enjin
-- Rarible
-- Crypto punks
+- ✨ Ethereum and EVM Development
+- 🌐 Decentralized Finance (DeFi)
+- 💼 NFTs (Non-Fungible Tokens)
+- 📜 Solidity and Smart Contract Development
+- 🦀 Rust Development
+- 🐍 Python Programming
+- 🚀 Blockchain Tools: Hardhat, Truffle, Foundry
+- 📦 JavaScript and Ether.js
+- 🧪 Testing: Mocha, Ganache, Chai
+- 💡 Problem Solving and Algorithms
+- 📊 Data Structures
+- 💻 Node.js and React
+- 📜 OpenZeppelin Contracts
+- 🌐 IPFS (InterPlanetary File System)
+- 📃 Ethereum Improvement Proposals (EIPs)
+
+## Projects and Protocols
+
+I've worked with various blockchain projects and protocols, including:
+
+- 🏦 Aave
+- 🔄 Uniswap
+- 💰 Compound Protocol
+- 🛠 Euler Finance
+- 🚗 Gear Box
+- 🍇 Apwine
+- 📈 1inch
+- 💳 MakerDAO
+- ⚙ Hyperlane
+- 🌐 LayerZero
+- 🔄 Celer Sgn V2
+- 🧪 PSM Module
+- 💱 Unified Liquidity Mechanisms (dAMM, SLAMM, VAMM, Delta Algorithm)
+- 🌉 Cross-Chain Liquidity Bridges
+- 📈 Perpetual Futures
+- 📈 Volmex Finance
+- 🎨 Opensea
+- 🕹 Sandbox
+- 🎨 Enjin
+- 🎨 Rarible
+- 🎮 CryptoPunks
 
 ## 🧐 About
 - 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with DeFi, Nft's, web3, Ether.js, HardHat, Foundry, truffle, slither, Remix and many ERC standards and different protocols. 
-- 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor and has Audit more than 150+ projects.
+- 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor and have Audit more than 150+ projects till now.
 - 🤝 I am looking forward to collaborate on some open source projects, private projects and senior smart contract Auditing.
 - 🤔 I’m looking for help with Remote Jobs and want to change my job.
 - ⚡ Fun fact: I ❤️ Caffein☕.
@@ -91,7 +87,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ---
 
 ### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/manmeet-singh-parmar-9733a511b/)
-<!-- [<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com) -->
-<!-- [<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466) -->
-<br />
+I'm open to collaboration and networking. Feel free to reach out to me via email at [manmeetparmar25@gmail.com](mailto:manmeetparmar25@gmail.com) or connect with me on LinkedIn: [Manmeet Singh Parmar](https://www.linkedin.com/in/manmeet-singh-parmar-9733a511b/).
