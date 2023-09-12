@@ -60,7 +60,7 @@ I've worked with various blockchain projects and protocols, including:
 
 ## 🧐 About
 - 🌱 I’m currently working as a Senior Solidity Developer and have been familiar with DeFi, Nft's, web3, Ether.js, HardHat, Foundry, truffle, slither, Remix and many ERC standards and different protocols. 
-- 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor and have Audit more than 150+ projects till now.
+- 👨🏼‍💼 I'm working as a senior smart contract freelance Auditor and have [Audit](https://github.com/genisis0x/Audits) more than 150+ projects till now.
 - 🤝 I am looking forward to collaborating on some open-source projects, private projects, and senior smart contract Auditing.
 - 🤔 I’m looking for help with Remote Jobs and want to change my job.
 - ⚡ Fun fact: I ❤️ Caffein☕.
