@@ -84,6 +84,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 
 ---
-
-### Connect with me
-I'm open to collaboration and networking. Feel free to reach out to me via email at [manmeetparmar25@gmail.com](mailto:manmeetparmar25@gmail.com) or connect with me on LinkedIn: [Manmeet Singh Parmar](https://www.linkedin.com/in/manmeet-singh-parmar-9733a511b/).
